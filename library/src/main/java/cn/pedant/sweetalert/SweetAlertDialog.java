@@ -17,8 +17,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import cn.pedant.sweetalert.R;
-
 public class SweetAlertDialog extends Dialog implements View.OnClickListener {
     private View mDialogView;
     private AnimationSet mScaleInAnim;

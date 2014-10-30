@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "cn.pedant.sweetalert.sweetaerltdialog"
+        applicationId "cn.pedant.sweetalert.example"
         minSdkVersion 14
         targetSdkVersion 20
         versionCode 1
